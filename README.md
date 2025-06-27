@@ -4,6 +4,7 @@ A 59s rap music video by @jim_nomad (Orange Phoenix on the Rise) on how Bitcoin 
 ## Tools Used
 - Suno v4: rap music (along with multiple rounds of human edits and finetuning)
 - DallE: image generation (along with multiple human prompt iterations and edits)
+- Windsurf: Python charts of Bitcoin hashrate growth, network address growth, and price growth
 - Runway: animations (along with multiple rounds of human finetuning)
 - Capcut: Final video assembly and text overlay
 
