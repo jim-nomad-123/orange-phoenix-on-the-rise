@@ -1,4 +1,4 @@
-# orange-phoenix-on-the-rise
+# Orange Phoenix on the Rise
 A 59s rap music video by @jim_nomad (Orange Phoenix on the Rise) on how Bitcoin obituaries are dead
 
 ## Tools Used
