@@ -1,5 +1,5 @@
 # Orange Phoenix on the Rise
-A 59s up-tempo rap music video by @jim_nomad (Orange Phoenix on the Rise) on how Bitcoin obituaries are dead
+A 59s up-tempo rap music video by @jim_nomad (Song: "Orange Phoenix on the Rise") on how Bitcoin obituaries are dead
 
 ## Tools Used
 - Suno v4: Rap music (along with multiple rounds of human lyric edits and finetuning)
