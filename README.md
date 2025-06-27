@@ -3,7 +3,7 @@ A 59s up-tempo rap music video by @jim_nomad (Song: "Orange Phoenix on the Rise"
 
 ## Tools Used
 - Suno v4: Rap music (along with multiple rounds of human lyric edits and finetuning)
-- Dall-E: Image generation (along with multiple human prompt iterations and edits)
+- Open AI Dall-E: Image generation (along with multiple human prompt iterations and edits)
 - Windsurf + Python: Charts of Bitcoin hashrate growth, network address growth, and price growth
 - Runway: Animations (along with multiple rounds of human finetuning)
 - CapCut: Final video assembly and text overlay
