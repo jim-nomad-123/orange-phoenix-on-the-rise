@@ -12,6 +12,7 @@ A 59s rap music video by @jim_nomad (Orange Phoenix on the Rise) on how Bitcoin 
 - 'images/': image files
 - 'animations/': animation files
 - 'audio/': Generated background track and rap song
+- 'url/': urls of BTC obits referenced
 
 ## License
 This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/) 
